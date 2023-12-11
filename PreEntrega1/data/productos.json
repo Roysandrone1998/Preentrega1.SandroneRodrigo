@@ -1,0 +1,22 @@
+[
+  {
+    "description": "color negro",
+    "title": "Funda 2",
+    "code": "F23asda",
+    "price": 5000,
+    "category": "fundas",
+    "stock": 42,
+    "status": true,
+    "id": 1
+  },
+  {
+    "description": "color gris",
+    "title": "Funda 3",
+    "code": "F23as21da",
+    "price": 5000,
+    "category": "fundas",
+    "stock": 42,
+    "status": true,
+    "id": 2
+  }
+]
